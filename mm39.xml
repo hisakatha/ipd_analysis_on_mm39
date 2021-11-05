@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbds:ReferenceSet CreatedAt="2021-09-19T16:48:22" MetaType="PacBio.DataSet.ReferenceSet" Name="pacbio_dataset_referenceset-210919_074822098" Tags="" TimeStampedName="pacbio_dataset_referenceset-210919_074822098" UniqueId="3c9e695f-22b4-0f9b-6964-92e68cfe9e05" Version="3.0.1" xmlns:pbbase="http://pacificbiosciences.com/PacBioBaseDataModel.xsd" xmlns:pbds="http://pacificbiosciences.com/PacBioDatasets.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pacificbiosciences.com/PacBioDataModel.xsd">
+	<pbbase:ExternalResources>
+		<pbbase:ExternalResource MetaType="PacBio.ContigFile.ContigFastaFile" ResourceId="/glusterfs/hisakatha/ensembl_mm39/Mus_musculus.GRCm39.dna_sm.primary_assembly.fa" TimeStampedName="pacbio_contigfile_contigfastafile-210919_074822096" UniqueId="fddc111d-be84-4f68-989b-2fcdb9b0f5b0">
+			<pbbase:FileIndices>
+				<pbbase:FileIndex MetaType="PacBio.Index.SamIndex" ResourceId="/glusterfs/hisakatha/ensembl_mm39/Mus_musculus.GRCm39.dna_sm.primary_assembly.fa.fai" TimeStampedName="pacbio_index_samindex-210919_074822097" UniqueId="32ee7287-9ea8-4335-99c4-08e74eb59e47"/>
+			</pbbase:FileIndices>
+		</pbbase:ExternalResource>
+	</pbbase:ExternalResources>
+	<pbds:DataSetMetadata>
+		<pbds:TotalLength>2728222451</pbds:TotalLength>
+		<pbds:NumRecords>61</pbds:NumRecords>
+		<pbds:Organism/>
+		<pbds:Ploidy/>
+	</pbds:DataSetMetadata>
+</pbds:ReferenceSet>
